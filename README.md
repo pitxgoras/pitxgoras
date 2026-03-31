@@ -45,14 +45,14 @@
 
 ---
 
+## 📊 Estadísticas de GitHub
+
+![Stats](https://github-readme-stats.vercel.app/api?username=pitxgoras&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pitxgoras&layout=compact&theme=tokyonight)
+
 #### ⚡ Frase:
 
 <p align="center">
   La imaginación es más importante que el conocimiento. El conocimiento es limitado, la imaginación abarca el mundo entero.
-</p>
-
-### 📊 Estadísticas de GitHub
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pitxgoras&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitxgoras&layout=compact&theme=tokyonight" />
 </p>
