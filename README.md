@@ -29,14 +29,6 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pitxgoras&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitxgoras&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🔥 Racha de contribuciones
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=pitxgoras&theme=tokyonight&hide_border=true" />
@@ -57,4 +49,10 @@
 
 <p align="center">
   La imaginación es más importante que el conocimiento. El conocimiento es limitado, la imaginación abarca el mundo entero.
+</p>
+
+### 📊 Estadísticas de GitHub
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pitxgoras&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitxgoras&layout=compact&theme=tokyonight" />
 </p>
