@@ -9,6 +9,9 @@
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pitxgoras&layout=compact&theme=tokyonight" /> 
 </p>
 
+<p align="center">
+  La imaginación es más importante que el conocimiento. El conocimiento es limitado, la imaginación abarca el mundo entero.
+</p>
 ---
 
 ## 🧠 En qué estoy trabajando ahora
@@ -42,12 +45,4 @@
 <a href="https://www.linkedin.com/in/jhonn-pether-sj/">
 <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-</p>
-
----
-
-### ⚡ Frase:
-
-<p align="center">
-  La imaginación es más importante que el conocimiento. El conocimiento es limitado, la imaginación abarca el mundo entero.
 </p>
