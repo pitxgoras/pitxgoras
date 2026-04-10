@@ -12,6 +12,7 @@
 <p align="center">
   La imaginación es más importante que el conocimiento. El conocimiento es limitado, la imaginación abarca el mundo entero.
 </p>
+
 ---
 
 ## 🧠 En qué estoy trabajando ahora
