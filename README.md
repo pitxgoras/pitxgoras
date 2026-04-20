@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Jhonn Pether [(3.141592)](https://steamcommunity.com/id/xmini0n_sx)
+# 👋 ¡Hola! Soy Jhonn Pether [(Pitx)](https://steamcommunity.com/id/xmini0n_sx)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack;Apasionado+por+Cloud+y+DevOps;Automatizando+soluciones;Siempre+aprendiendo+y+mejorando" />
