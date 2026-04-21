@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack;Apasionado+por+Cloud+y+DevOps;Automatizando+soluciones;Siempre+aprendiendo+y+mejorando" />
 </p>
 
-<p align="center"> 
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pitxgoras&show_icons=true&theme=tokyonight" /> 
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pitxgoras&layout=compact&theme=tokyonight" /> 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pitxgoras&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitxgoras&layout=compact&theme=tokyonight&count_private=true&v=2" />
 </p>
 
 <p align="center">
