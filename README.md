@@ -1,4 +1,7 @@
 # 👋 ¡Hola! Soy Jhonn Pether [(Pitx)](https://steamcommunity.com/id/xmini0n_sx)
+<a href="https://www.linkedin.com/in/jhonn-pether-sj/">
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack;Apasionado+por+Cloud+y+DevOps;Automatizando+soluciones;Siempre+aprendiendo+y+mejorando" />
@@ -35,13 +38,4 @@
 ## 🔥 Racha de contribuciones
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=pitxgoras&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌐 Conecta conmigo
-<p align="center">
-<a href="https://www.linkedin.com/in/jhonn-pether-sj/">
-<img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin"/>
-</a>
 </p>
