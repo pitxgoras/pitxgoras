@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pitxgoras&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="Estadísticas de GitHub de pitxgoras" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitxgoras&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&border_radius=10" alt="Lenguajes más usados por pitxgoras" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pitxgoras&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="Estadísticas de GitHub de pitxgoras" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pitxgoras&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&border_radius=10" alt="Lenguajes más usados por pitxgoras" />
 </p>
 
 <p align="center">
